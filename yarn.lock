@@ -39,10 +39,10 @@
     react-resize-detector "^7.0.0"
     zustand "^3.6.2"
 
-"@agility/content-fetch@1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@agility/content-fetch/-/content-fetch-1.1.1.tgz#d8a91ceea8e7809c84ee954cb08444071612b3e0"
-  integrity sha512-d7IyZSYL16HGOMhnWs/W4rMqMBUSHfTelDdxrwuGuc3EXlth83VwPVsZZuIxQDI5EJzXOcsvMUT6B1ENDSrd5A==
+"@agility/content-fetch@1.1.5":
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/@agility/content-fetch/-/content-fetch-1.1.5.tgz#b6fe8dc769a32ce757d65b4f1ff278f418e514d3"
+  integrity sha512-86lnIBW335ZjnpRpgP4OKPkmZBu9IEEvF44AL7UNcJEBkkYpCHn5PQaCGvU3E9q/vNOSjDvjNzQGIBawNXQNXQ==
   dependencies:
     axios "^0.21.1"
     axios-cache-adapter "^2.4.1"
