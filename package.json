@@ -22,7 +22,7 @@
     "@agility/content-sync": "1.0.3",
     "@hcaptcha/react-hcaptcha": "^0.3.7",
     "@radix-ui/react-dialog": "0.1.5",
-    "@radix-ui/react-dropdown-menu": "0.1.4",
+    "@radix-ui/react-dropdown-menu": "0.1.6",
     "@radix-ui/react-tabs": "0.1.4",
     "@reach/skip-nav": "0.12.1",
     "@supabase/supabase-js": "^1.35.4",
