@@ -31,7 +31,7 @@
     "cookie": "0.4.1",
     "date-fns": "2.16.1",
     "htmlescape": "1.1.1",
-    "intersection-observer": "0.12.0",
+    "intersection-observer": "0.12.2",
     "ioredis": "4.19.4",
     "ms": "2.1.3",
     "next": "^12.0.10",
