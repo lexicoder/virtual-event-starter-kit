@@ -24,10 +24,10 @@
     uuid "^8.3.2"
     webrtc-adapter "^8.0.0"
 
-"@100mslive/react-icons@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@100mslive/react-icons/-/react-icons-0.0.6.tgz#43316f94915d00dcf3f2195e2e6fd3643d8f08bd"
-  integrity sha512-ZNF06qv7/6wirtfVMxXEzPMp4i0A4yHCoEhJ7irTngBo2fjjy1tlHS0QxQlY05ImuEpPm2vwVjgd3gj6ZdmBXg==
+"@100mslive/react-icons@^0.8.26":
+  version "0.8.28"
+  resolved "https://registry.yarnpkg.com/@100mslive/react-icons/-/react-icons-0.8.28.tgz#9b85627cc1580ae4a10e03df99f917ebb295c7c1"
+  integrity sha512-4W36IiwmMlcE3eHmpYwITfR/wtr9XVjF2wEmsJnCfp/a0ydnr6OPJfipUI3Ndn4X+wcFdReR2GTqmQzgFIFjkw==
 
 "@100mslive/react-sdk@^0.0.6":
   version "0.0.6"
