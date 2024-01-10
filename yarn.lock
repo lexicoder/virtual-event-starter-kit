@@ -2,23 +2,23 @@
 # yarn lockfile v1
 
 
-"@100mslive/hms-video-store@0.2.89":
-  version "0.2.89"
-  resolved "https://registry.yarnpkg.com/@100mslive/hms-video-store/-/hms-video-store-0.2.89.tgz#b92018c20cc8bb1d43f5a187a379042443de41bf"
-  integrity sha512-XID0mb7CQ8cIaPPHDtXmeoYkH6dKeHYQio8fqBMHH7KoILXzKV5Ztdjr6EMkbI9kkM8z9YdgCNs6DqtAQleKhA==
+"@100mslive/hms-video-store@0.10.28":
+  version "0.10.28"
+  resolved "https://registry.yarnpkg.com/@100mslive/hms-video-store/-/hms-video-store-0.10.28.tgz#7527f072247eb8c65db858d990c2e7d5d9b7b30e"
+  integrity sha512-NVRV5GMIU0zuiT+b57LU+wBweppQb0OSEpELKrdbyYErvhtECHbWxtKKApg1xbXbKt7faAlHrdWnkpQucFi5+A==
   dependencies:
-    "@100mslive/hms-video" "0.1.43"
-    eventemitter2 "^6.4.5"
+    "@100mslive/hms-video" "0.9.28"
+    eventemitter2 "^6.4.7"
     immer "^9.0.6"
     reselect "4.0.0"
     zustand "3.5.7"
 
-"@100mslive/hms-video@0.1.43":
-  version "0.1.43"
-  resolved "https://registry.yarnpkg.com/@100mslive/hms-video/-/hms-video-0.1.43.tgz#404776553f525e4e8fb6157b7423d7c1e6c6b94f"
-  integrity sha512-zb5Z55HCSqdvcl/JcR3A7nXlWqG/uQM8cf5hNnsHMTzSTgkCWeIWxL/mSP79DTWjdgJ9wAGLO26s/zGQBWfFjA==
+"@100mslive/hms-video@0.9.28":
+  version "0.9.28"
+  resolved "https://registry.yarnpkg.com/@100mslive/hms-video/-/hms-video-0.9.28.tgz#0af509058c4cf991e972276d1b4466cf84369c3d"
+  integrity sha512-3YZsOgWuMLxS5+MECK+Ui9zZBdmbOj7JEfYN8KpZ6bHc+Q6wLpXvRyuTOj6qP/nWzDiGqn1UxXtIAY38NP0pcQ==
   dependencies:
-    eventemitter2 "^6.4.5"
+    eventemitter2 "^6.4.7"
     sdp-transform "^2.14.1"
     ua-parser-js "^1.0.1"
     uuid "^8.3.2"
@@ -29,13 +29,12 @@
   resolved "https://registry.yarnpkg.com/@100mslive/react-icons/-/react-icons-0.0.6.tgz#43316f94915d00dcf3f2195e2e6fd3643d8f08bd"
   integrity sha512-ZNF06qv7/6wirtfVMxXEzPMp4i0A4yHCoEhJ7irTngBo2fjjy1tlHS0QxQlY05ImuEpPm2vwVjgd3gj6ZdmBXg==
 
-"@100mslive/react-sdk@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@100mslive/react-sdk/-/react-sdk-0.0.6.tgz#7321ead526a7d4172fba7cccbe91eb148d569ff1"
-  integrity sha512-48aI8YshLIl9GgoHA/klOG9zCAGBrF5CoCx4msecmKQuIe5a8HN1r6GxThA89EnS+3YODaDatAVSOEsRQjZ+mA==
+"@100mslive/react-sdk@^0.8.26":
+  version "0.8.28"
+  resolved "https://registry.yarnpkg.com/@100mslive/react-sdk/-/react-sdk-0.8.28.tgz#9e3d14e19d2678a08a91497fd8da6ea7cf995c1e"
+  integrity sha512-O+Czzi7W/zocf4tKyQ1y3k5dxaGbOBTGaCxzN82FEl8GhX6/ma0Tpx98sfE7DRIqPc6OqiFN3Pg7GWeooObKaQ==
   dependencies:
-    "@100mslive/hms-video-store" "0.2.89"
-    react-intersection-observer "^8.33.1"
+    "@100mslive/hms-video-store" "0.10.28"
     react-resize-detector "^7.0.0"
     zustand "^3.6.2"
 
@@ -2206,10 +2205,10 @@ esutils@^2.0.2:
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.3.tgz#74d2eb4de0b8da1293711910d50775b9b710ef64"
   integrity sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==
 
-eventemitter2@^6.4.5:
-  version "6.4.5"
-  resolved "https://registry.yarnpkg.com/eventemitter2/-/eventemitter2-6.4.5.tgz#97380f758ae24ac15df8353e0cc27f8b95644655"
-  integrity sha512-bXE7Dyc1i6oQElDG0jMRZJrRAn9QR2xyyFGmBdZleNmyQX0FqGYmhZIrIrpPfm/w//LTo4tVQGOGQcGCb5q9uw==
+eventemitter2@^6.4.7:
+  version "6.4.9"
+  resolved "https://registry.yarnpkg.com/eventemitter2/-/eventemitter2-6.4.9.tgz#41f2750781b4230ed58827bc119d293471ecb125"
+  integrity sha512-JEPTiaOt9f04oa6NOkc4aH+nVp5I3wEjpHbIPqfgCdD5v5bUzy7xQqwcVO2aDQgOWhI28da57HksMrzK9HlRxg==
 
 ext@^1.1.2:
   version "1.6.0"
@@ -3605,11 +3604,6 @@ react-hot-toast@^2.2.0:
   integrity sha512-248rXw13uhf/6TNDVzagX+y7R8J183rp7MwUMNkcrBRyHj/jWOggfXTGlM8zAOuh701WyVW+eUaWG2LeSufX9g==
   dependencies:
     goober "^2.1.1"
-
-react-intersection-observer@^8.33.1:
-  version "8.33.1"
-  resolved "https://registry.yarnpkg.com/react-intersection-observer/-/react-intersection-observer-8.33.1.tgz#8e6442cac7052ed63056e191b7539e423e7d5c64"
-  integrity sha512-3v+qaJvp3D1MlGHyM+KISVg/CMhPiOlO6FgPHcluqHkx4YFCLuyXNlQ/LE6UkbODXlQcLOppfX6UMxCEkUhDLw==
 
 react-is@^16.8.1:
   version "16.13.1"
