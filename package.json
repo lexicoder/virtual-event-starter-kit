@@ -21,7 +21,7 @@
     "@agility/content-fetch": "2.0.0",
     "@agility/content-sync": "1.0.3",
     "@hcaptcha/react-hcaptcha": "^0.3.7",
-    "@radix-ui/react-dialog": "0.1.5",
+    "@radix-ui/react-dialog": "0.1.7",
     "@radix-ui/react-dropdown-menu": "0.1.4",
     "@radix-ui/react-tabs": "0.1.4",
     "@reach/skip-nav": "0.12.1",
