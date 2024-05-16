@@ -547,6 +547,18 @@
   dependencies:
     "@babel/runtime" "^7.13.10"
 
+"@reach/polymorphic@0.18.0":
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/@reach/polymorphic/-/polymorphic-0.18.0.tgz#2fe42007a774e06cdbc8e13e0d46f2dc30f2f1ed"
+  integrity sha512-N9iAjdMbE//6rryZZxAPLRorzDcGBnluf7YQij6XDLiMtfCj1noa7KyLpEc/5XCIB/EwhX3zCluFAwloBKdblA==
+
+"@reach/skip-nav@*":
+  version "0.18.0"
+  resolved "https://registry.yarnpkg.com/@reach/skip-nav/-/skip-nav-0.18.0.tgz#9f72ba7ffcd8231c5d3aa10829ef68806e5bf759"
+  integrity sha512-7XKHX0NNTz9VJw1d+ZRuu3KhKSOZTIHSbHUuv7qKKPwSNApDa+dVGqR/I7dKwyB/CDFMXO4iEz4XLtOmvi0FEg==
+  dependencies:
+    "@reach/polymorphic" "0.18.0"
+
 "@reach/skip-nav@0.12.1":
   version "0.12.1"
   resolved "https://registry.yarnpkg.com/@reach/skip-nav/-/skip-nav-0.12.1.tgz#082b7f22b8ab50e6bff6297137c13d0ad5a4bb64"
@@ -1269,21 +1281,12 @@
   dependencies:
     "@types/node" "*"
 
-"@types/reach__skip-nav@0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@types/reach__skip-nav/-/reach__skip-nav-0.1.1.tgz#2e837aa63ec1e8b5970efc4aeec64123a90a7f3c"
-  integrity sha512-JNl2rXaP6DntRSX5HbUg2CUpqpgVLiZon4I4cCOslKKvfYhCyUfLbbiwMRTsgTR+WEIaKkjHt3FCF/JR9B6pKA==
+"@types/reach__skip-nav@0.1.3":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@types/reach__skip-nav/-/reach__skip-nav-0.1.3.tgz#bb4b4de5f8eb3b1d693d31c5c0ba2488dadb336a"
+  integrity sha512-jCerhtupdSZnEYa61F+iEABssvr426T1XSIglayM2mUHP6HW7/Dt84Hlm3BUGApZiS08jUCq5sfbIInwVJAp3Q==
   dependencies:
-    "@types/react" "*"
-
-"@types/react@*":
-  version "17.0.37"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.37.tgz#6884d0aa402605935c397ae689deed115caad959"
-  integrity sha512-2FS1oTqBGcH/s0E+CjrCCR9+JMpsu9b69RTFO+40ua43ZqP5MmQ4iUde/dMjWR909KxZwmOQIFq6AV6NjEG5xg==
-  dependencies:
-    "@types/prop-types" "*"
-    "@types/scheduler" "*"
-    csstype "^3.0.2"
+    "@reach/skip-nav" "*"
 
 "@types/react@17.0.0":
   version "17.0.0"
@@ -1297,11 +1300,6 @@
   version "0.1.6"
   resolved "https://registry.yarnpkg.com/@types/resize-observer-browser/-/resize-observer-browser-0.1.6.tgz#d8e6c2f830e2650dc06fe74464472ff64b54a302"
   integrity sha512-61IfTac0s9jvNtBCpyo86QeaN8qqpMGHdK0uGKCCIy2dt5/Yk84VduHIdWAcmkC5QvdkPL0p5eWYgUZtHKKUVg==
-
-"@types/scheduler@*":
-  version "0.16.2"
-  resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.2.tgz#1a62f89525723dde24ba1b01b092bf5df8ad4d39"
-  integrity sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==
 
 "@types/smoothscroll-polyfill@0.3.1":
   version "0.3.1"
