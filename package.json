@@ -16,7 +16,7 @@
     "license": "addlicense -l apache -c 'Vercel Inc.' components/**/* lib/**/* pages/**/* styles/**/* *.ts *.js"
   },
   "dependencies": {
-    "@100mslive/react-icons": "^0.0.6",
+    "@100mslive/react-icons": "^0.8.26",
     "@100mslive/react-sdk": "^0.0.6",
     "@agility/content-fetch": "2.0.0",
     "@agility/content-sync": "1.0.3",
